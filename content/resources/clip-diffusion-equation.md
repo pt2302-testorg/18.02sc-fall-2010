@@ -18,9 +18,9 @@ title: 'Clip: Diffusion Equation'
 uid: ad0fe7df-c59a-c505-9c57-0175e48e0402
 video_files:
   archive_url: http://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec29_300k.mp4
-  video_captions_file: null
+  video_captions_file: courses/18-02sc-multivariable-calculus-fall-2010/wu8kXZSAp20_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/wu8kXZSAp20/default.jpg
-  video_transcript_file: null
+  video_transcript_file: courses/18-02sc-multivariable-calculus-fall-2010/wu8kXZSAp20_transcript.pdf
 video_metadata:
   youtube_id: wu8kXZSAp20
 ---
