@@ -18,9 +18,9 @@ title: 'Clip: Kepler''s Second Law'
 uid: 6f9b977d-a639-6f5e-aa8c-38420e63b71a
 video_files:
   archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec06_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/18-02sc-multivariable-calculus-fall-2010/0D4BbCa4gHo_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/0D4BbCa4gHo/default.jpg
-  video_transcript_file: null
+  video_transcript_file: /courses/18-02sc-multivariable-calculus-fall-2010/0D4BbCa4gHo_transcript.pdf
 video_metadata:
   youtube_id: 0D4BbCa4gHo
 ---
