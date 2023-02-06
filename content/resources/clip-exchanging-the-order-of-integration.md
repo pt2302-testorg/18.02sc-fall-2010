@@ -18,9 +18,9 @@ title: 'Clip: Exchanging the Order of Integration'
 uid: 563c7e72-868c-8575-6d39-8ae98bcad77e
 video_files:
   archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec16_300k.mp4
-  video_captions_file: courses/18-02sc-multivariable-calculus-fall-2010/YP_B0AapU0c_captions.vtt
+  video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/YP_B0AapU0c/default.jpg
-  video_transcript_file: courses/18-02sc-multivariable-calculus-fall-2010/YP_B0AapU0c_transcript.pdf
+  video_transcript_file: null
 video_metadata:
   youtube_id: YP_B0AapU0c
 ---

@@ -18,9 +18,9 @@ title: 'Clip: Stokes'' Theorem and Surface Independence'
 uid: fd1b10a7-1dd1-b247-88a0-38917ddf6657
 video_files:
   archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec32_300k.mp4
-  video_captions_file: courses/18-02sc-multivariable-calculus-fall-2010/sr7kCpzAuYw_captions.vtt
+  video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/sr7kCpzAuYw/default.jpg
-  video_transcript_file: courses/18-02sc-multivariable-calculus-fall-2010/sr7kCpzAuYw_transcript.pdf
+  video_transcript_file: null
 video_metadata:
   youtube_id: sr7kCpzAuYw
 ---

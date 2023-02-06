@@ -18,9 +18,9 @@ title: 'Clip: Simply Connected Regions and Conservative Fields'
 uid: 5cf5dee0-c8a4-3b8d-7e25-59533abe7d93
 video_files:
   archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec24_300k.mp4
-  video_captions_file: courses/18-02sc-multivariable-calculus-fall-2010/PnPIqh7Frlw_captions.vtt
+  video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/PnPIqh7Frlw/default.jpg
-  video_transcript_file: courses/18-02sc-multivariable-calculus-fall-2010/PnPIqh7Frlw_transcript.pdf
+  video_transcript_file: null
 video_metadata:
   youtube_id: PnPIqh7Frlw
 ---
