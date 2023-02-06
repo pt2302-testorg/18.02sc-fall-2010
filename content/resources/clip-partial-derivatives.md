@@ -18,9 +18,9 @@ title: 'Clip: Partial Derivatives'
 uid: fd3d0624-544c-703b-0db6-80627d95fe79
 video_files:
   archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec08_300k.mp4
-  video_captions_file: null
+  video_captions_file: courses/18-02sc-multivariable-calculus-fall-2010/dK3NEf13nPc_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/dK3NEf13nPc/default.jpg
-  video_transcript_file: null
+  video_transcript_file: courses/18-02sc-multivariable-calculus-fall-2010/dK3NEf13nPc_transcript.pdf
 video_metadata:
   youtube_id: dK3NEf13nPc
 ---

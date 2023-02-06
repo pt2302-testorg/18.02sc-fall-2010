@@ -18,9 +18,9 @@ title: 'Clip 1: Functions of 2 Variables, Partial Derivatives'
 uid: 5d64aa12-1c8f-c98f-98e7-06e5fda7083b
 video_files:
   archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec34_300k.mp4
-  video_captions_file: null
+  video_captions_file: courses/18-02sc-multivariable-calculus-fall-2010/ZwpwmGP5ITM_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ZwpwmGP5ITM/default.jpg
-  video_transcript_file: null
+  video_transcript_file: courses/18-02sc-multivariable-calculus-fall-2010/ZwpwmGP5ITM_transcript.pdf
 video_metadata:
   youtube_id: ZwpwmGP5ITM
 ---

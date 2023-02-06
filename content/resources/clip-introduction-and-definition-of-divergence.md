@@ -18,9 +18,9 @@ title: 'Clip: Introduction and Definition of Divergence'
 uid: fc88312b-b576-4131-ad81-164e80c8de92
 video_files:
   archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec23_300k.mp4
-  video_captions_file: null
+  video_captions_file: courses/18-02sc-multivariable-calculus-fall-2010/CdoRiNSrqI_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/_CdoRiNSrqI/default.jpg
-  video_transcript_file: null
+  video_transcript_file: courses/18-02sc-multivariable-calculus-fall-2010/CdoRiNSrqI_transcript.pdf
 video_metadata:
   youtube_id: _CdoRiNSrqI
 ---

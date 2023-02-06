@@ -18,9 +18,9 @@ title: 'Clip: Calculating Flux'
 uid: 7a0746bd-2d27-91e5-9e8f-455d4573740c
 video_files:
   archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec23_300k.mp4
-  video_captions_file: null
+  video_captions_file: courses/18-02sc-multivariable-calculus-fall-2010/CdoRiNSrqI_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/_CdoRiNSrqI/default.jpg
-  video_transcript_file: null
+  video_transcript_file: courses/18-02sc-multivariable-calculus-fall-2010/CdoRiNSrqI_transcript.pdf
 video_metadata:
   youtube_id: _CdoRiNSrqI
 ---

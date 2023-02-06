@@ -18,9 +18,9 @@ title: 'Clip: Solutions to Square Systems'
 uid: 83579c5f-a2f0-1ca0-8731-a9870a66c822
 video_files:
   archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec04_300k.mp4
-  video_captions_file: null
+  video_captions_file: courses/18-02sc-multivariable-calculus-fall-2010/YBajUR3EFSM_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/YBajUR3EFSM/default.jpg
-  video_transcript_file: null
+  video_transcript_file: courses/18-02sc-multivariable-calculus-fall-2010/YBajUR3EFSM_transcript.pdf
 video_metadata:
   youtube_id: YBajUR3EFSM
 ---
