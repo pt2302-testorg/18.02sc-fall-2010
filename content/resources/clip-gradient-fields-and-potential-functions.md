@@ -18,9 +18,9 @@ title: 'Clip: Gradient Fields and Potential Functions'
 uid: 26d2df04-8579-1fea-7201-d5f8680c8389
 video_files:
   archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec30_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/18-02sc-multivariable-calculus-fall-2010/seO7-TwXH_I_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/seO7-TwXH_I/default.jpg
-  video_transcript_file: null
+  video_transcript_file: /courses/18-02sc-multivariable-calculus-fall-2010/seO7-TwXH_I_transcript.pdf
 video_metadata:
   youtube_id: seO7-TwXH_I
 ---
