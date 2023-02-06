@@ -18,9 +18,9 @@ title: 'Clip: Optimization Problem'
 uid: ea9f5076-906f-d2e1-c091-80435a82baaf
 video_files:
   archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec09_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/18-02sc-multivariable-calculus-fall-2010/UYe98CcxPbs_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/UYe98CcxPbs/default.jpg
-  video_transcript_file: null
+  video_transcript_file: /courses/18-02sc-multivariable-calculus-fall-2010/UYe98CcxPbs_transcript.pdf
 video_metadata:
   youtube_id: UYe98CcxPbs
 ---

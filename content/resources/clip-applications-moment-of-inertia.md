@@ -18,9 +18,9 @@ title: 'Clip: Applications: Moment of Inertia'
 uid: 76e34d51-5cd6-74c3-8db9-d76e7e7c64ef
 video_files:
   archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec17_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/18-02sc-multivariable-calculus-fall-2010/60e4hdCi1D4_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/60e4hdCi1D4/default.jpg
-  video_transcript_file: null
+  video_transcript_file: /courses/18-02sc-multivariable-calculus-fall-2010/60e4hdCi1D4_transcript.pdf
 video_metadata:
   youtube_id: 60e4hdCi1D4
 ---
