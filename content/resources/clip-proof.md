@@ -18,9 +18,9 @@ title: 'Clip: Proof'
 uid: df9130ec-c09e-5207-714d-ee7170031748
 video_files:
   archive_url: https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec12_300k.mp4
-  video_captions_file: courses/18-02sc-multivariable-calculus-fall-2010/2XraaWefBd8_captions.vtt
+  video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/2XraaWefBd8/default.jpg
-  video_transcript_file: courses/18-02sc-multivariable-calculus-fall-2010/2XraaWefBd8_transcript.pdf
+  video_transcript_file: null
 video_metadata:
   youtube_id: 2XraaWefBd8
 ---
